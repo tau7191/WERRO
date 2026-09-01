@@ -1,0 +1,17 @@
+build/
+bin/
+*.o
+*.so
+*.a
+
+.vscode/
+.idea/
+*.swp
+*~
+
+_deps/
+
+.DS_Store
+Thumbs.db
+
+vulkanSdk/
