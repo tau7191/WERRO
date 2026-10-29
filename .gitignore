@@ -1,12 +1,17 @@
 build/
 bin/
+out/
 *.o
 *.so
 *.a
+*.obj
+*.exe
 
 .vscode/
 .idea/
 *.swp
+*.sln
+*.vcxproj*
 *~
 
 _deps/
